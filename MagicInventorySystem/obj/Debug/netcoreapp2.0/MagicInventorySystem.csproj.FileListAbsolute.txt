@@ -1,0 +1,12 @@
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\bin\Debug\netcoreapp2.0\MagicInventorySystem.deps.json
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\bin\Debug\netcoreapp2.0\MagicInventorySystem.runtimeconfig.json
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\bin\Debug\netcoreapp2.0\MagicInventorySystem.runtimeconfig.dev.json
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\bin\Debug\netcoreapp2.0\MagicInventorySystem.dll
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\obj\Debug\netcoreapp2.0\MagicInventorySystem.csprojResolveAssemblyReference.cache
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\obj\Debug\netcoreapp2.0\MagicInventorySystem.csproj.CoreCompileInputs.cache
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\obj\Debug\netcoreapp2.0\MagicInventorySystem.AssemblyInfoInputs.cache
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\obj\Debug\netcoreapp2.0\MagicInventorySystem.AssemblyInfo.cs
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\bin\Debug\netcoreapp2.0\appsettings.json
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\bin\Debug\netcoreapp2.0\MagicInventorySystem.pdb
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\obj\Debug\netcoreapp2.0\MagicInventorySystem.dll
+C:\WDT\Assignment1\MagicInventorySystem\MagicInventorySystem\obj\Debug\netcoreapp2.0\MagicInventorySystem.pdb
